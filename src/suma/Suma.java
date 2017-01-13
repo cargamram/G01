@@ -1,3 +1,4 @@
+/*Clase para sumar dos numeros enteros*/
 package suma;
 
 public class Suma {
