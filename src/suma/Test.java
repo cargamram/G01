@@ -1,3 +1,4 @@
+/*Clase para comprobar la clase suma*/
 package suma;
 
 public class Test {
