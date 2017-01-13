@@ -1,3 +1,4 @@
+/*Clase para realizar un test de la clase multiplicacion*/
 package multiplicacion;
 
 public class Test {
