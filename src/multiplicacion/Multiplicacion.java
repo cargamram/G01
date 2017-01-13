@@ -1,3 +1,4 @@
+/*Clase java para realizar una multiplicacion*/
 package multiplicacion;
 
 public class Multiplicacion {
