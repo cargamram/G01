@@ -1,3 +1,4 @@
+/*Clase que resta dos numeros enteros*/
 package resta;
 
 public class Resta {
