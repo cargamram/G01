@@ -1,3 +1,4 @@
+/*Clase para comprobar la clase resta*/
 package resta;
 
 public class Test {
